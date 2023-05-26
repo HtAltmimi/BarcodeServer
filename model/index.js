@@ -1,7 +1,7 @@
 
 const {Sequelize , DataTypes , Model} = require("sequelize");
 
-const sequelize = new Sequelize('', '','',{
+const sequelize = new Sequelize('u110268777_rasol', 'u110268777_rasol','Rasol.90',{
     host:'145.14.156.192',
     dialect:'mysql',
     logging:true,
